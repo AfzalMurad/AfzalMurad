@@ -34,4 +34,3 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-_Thanks for stopping by! 😊_
