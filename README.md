@@ -1,4 +1,4 @@
-# 👨‍💻 Afzal – Software Developer
+# 👨‍💻 Afzal Murad – Software Developer
 
 Hi there! I'm **Afzal**, a passionate and results-driven software developer with experience building modern web and mobile applications. I enjoy solving complex problems, writing clean code, and learning new technologies.
 
