@@ -22,7 +22,7 @@ Here are some of the projects I’ve worked on:
 - **Project 2** – A mobile app using React Native and Firebase  
 - **Project 3** – API-based data dashboard using Next.js and Chart.js  
 
-> *(You can add links and descriptions to your actual projects here)*
+
 
 ---
 
